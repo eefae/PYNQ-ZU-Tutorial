@@ -7,4 +7,4 @@ cd $PYNQ_JUPYTER_NOTEBOOKS
 pynq get-notebooks pynq-dpu -p .
 python3 -m pytest --pyargs pynq_dpu
 ```
->ref. https://github.com/Xilinx/DPU-PYNQ
+> **Ref.** [DPU-PYNQ](https://github.com/Xilinx/DPU-PYNQ)
