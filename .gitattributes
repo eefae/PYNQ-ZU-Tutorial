@@ -1,0 +1,5 @@
+Jypyter_Notebook/AI/xmodel/dpu_enet_cityscapes.xmodel filter=lfs diff=lfs merge=lfs -text
+Jypyter_Notebook/AI/xmodel/dpu_mnist_classifier.xmodel filter=lfs diff=lfs merge=lfs -text
+Jypyter_Notebook/AI/xmodel/dpu_resnet50.xmodel filter=lfs diff=lfs merge=lfs -text
+Jypyter_Notebook/AI/xmodel/dpu_tf_inceptionv1.xmodel filter=lfs diff=lfs merge=lfs -text
+Jypyter_Notebook/AI/xmodel/tf_yolov3_voc.xmodel filter=lfs diff=lfs merge=lfs -text
