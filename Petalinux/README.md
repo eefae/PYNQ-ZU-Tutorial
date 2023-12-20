@@ -1,3 +1,7 @@
+# DockerHub
+```
+docker pull jyunteng/petalinux:pynqzu
+```
 # Introduction
 Today, we want to use Petalinux on PYNQ-ZU. For this goal, we need to follow the flow below. First, We will create a Vivado project for Petalinux. Second, use docker to build the environment. Last, generate a Petalinux project. After the last step, we will get 4 files we need. The first three files are for booting the Linux kernel, and the last one can generate a Linux file system.
 1. BOOT.bin
